@@ -1,8 +1,8 @@
-function Footer() {
+function Rodape() {
     return (
-        <footer class="Footer">
+        <footer class="footer">
             <p>© 2025 Guilherme Merces. Todos os direitos reservados.</p>
         </footer>
     )
 }
-export default Footer
+export default Rodape
