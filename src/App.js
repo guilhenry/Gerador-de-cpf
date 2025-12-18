@@ -1,10 +1,12 @@
 import './App.css';
-import Gerador from './componentes/gerador';
+import Footer from './componentes/Footer';
+import Gerador from './componentes/Gerador';
 
 function App() {
   return (
     <div className="App">
       <Gerador/>
+      <Footer/>
     </div>
   );
 }

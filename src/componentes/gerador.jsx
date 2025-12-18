@@ -1,5 +1,4 @@
 import { useState } from "react";
-import Titulo from "./titulo";
 import copia from "../copia.png"
 
 function Gerador(){
@@ -22,7 +21,7 @@ function Gerador(){
     return( 
    
         <div className="info">
-            <Titulo/>
+            <h1 className="titulo">Gerador de CPF</h1>
             <div className="displayCpf">
             {cpf && <h1 className="cpfh1">{cpf}</h1>} 
             
