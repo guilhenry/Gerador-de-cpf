@@ -1,5 +1,5 @@
 import './App.css';
-import Footer from './componentes/Footer';
+
 import Gerador from './componentes/Gerador';
 
 function App() {

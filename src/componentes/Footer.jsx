@@ -1,6 +1,6 @@
 function Footer() {
     return (
-        <footer class="footer">
+        <footer class="Footer">
             <p>© 2025 Guilherme Merces. Todos os direitos reservados.</p>
         </footer>
     )
